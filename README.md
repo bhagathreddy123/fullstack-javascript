@@ -20,3 +20,8 @@ serving "." at http://127.0.0.1:8080
 2.jQuery, OpenWeatherMap API and JSONP example
   https://openweathermap.org
   
+
+
+  Uncaught ReferenceError: attributes is not defined
+
+  url representing the current state of the application
